@@ -1,6 +1,16 @@
 [book]
+title = "Archict documentation"
 authors = ["Kevin Traini <kevin@ktraini.com>"]
+description = "Documentation of Archict PHP framework"
+src = "src"
 language = "en"
 multilingual = false
-src = "src"
-title = "Archict documentation"
+
+[build]
+build-dir = "book"
+create-missing = true
+
+[output.html]
+default-theme = "navy"
+git-repository-url = "https://github.com/Archict/documentation"
+edit-url-template  = "https://github.com/Archict/documentation/edit/master/{path}"
