@@ -1,0 +1,6 @@
+[book]
+authors = ["Kevin Traini <kevin@ktraini.com>"]
+language = "en"
+multilingual = false
+src = "src"
+title = "Archict documentation"
