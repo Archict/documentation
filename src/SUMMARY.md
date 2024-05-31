@@ -1,6 +1,6 @@
 # Summary
 
-[Introduction](./introduction.md)
+[Introduction](../README.md)
 
 # Getting started
 
@@ -19,4 +19,4 @@
 
 ---
 
-[Contributors]()
+[Contributors](./contributors.md)

@@ -1,3 +1,4 @@
-# Documentation
+# Introduction
 
-Please see https://archict.github.io/documentation/
+> [!WARNING]
+> This documentation is under implementation. We are sorry for the inconvenience
