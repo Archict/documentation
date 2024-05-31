@@ -1,21 +1,27 @@
 # Summary
 
-[Introduction](../README.md)
+[Introduction](./introduction.md)
 
 # Getting started
 
-- [New project]()
-    - [Your first page]()
-    - [Your first service]()
-- [Deployment]()
+- [New project](./getting-started/new-project.md)
+  - [Main page]()
+  - [Articles]()
+  - [Deployment]()
 
 # Documentation
 
-- [Routing]()
-    - [Route]()
-    - [Middleware]()
-- [Services]()
+- [Routing](./documentation/routing.md)
+  - [Route]()
+  - [Middleware]()
+- [Services](./documentation/services.md)
 - [Brick]()
+
+# Existing Bricks
+
+- [Core](./bricks/core.md)
+- [Router]()
+- [Firewall]()
 
 ---
 
