@@ -5,7 +5,7 @@
 # Getting started
 
 - [New project](./getting-started/new-project.md)
-  - [Main page]()
+  - [Main page](./getting-started/main-page.md)
   - [Articles]()
   - [Deployment]()
 
@@ -15,12 +15,12 @@
   - [Route]()
   - [Middleware]()
 - [Services](./documentation/services.md)
-- [Brick]()
+- [Brick](./documentation/brick.md)
 
 # Existing Bricks
 
 - [Core](./bricks/core.md)
-- [Router]()
+- [Router](./bricks/router.md)
 - [Firewall]()
 
 ---

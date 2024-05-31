@@ -11,7 +11,7 @@ build-dir = "book"
 create-missing = true
 
 [output.html]
-default-theme = "navy"
+default-theme = "ayu"
 git-repository-url = "https://github.com/Archict/documentation"
 edit-url-template  = "https://github.com/Archict/documentation/edit/master/{path}"
 
