@@ -1,9 +1,7 @@
 changelog:
   categories:
-    - title: New Features 🎉
-      labels: [enhancement]
-    - title: Bug fixes 🛠
-      labels: [bug]
+    - title: Documentation 🎉
+      labels: [documentation]
     - title: Dependencies updates
       labels: [dependencies]
     - title: Other changes
