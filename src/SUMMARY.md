@@ -6,7 +6,7 @@
 
 - [New project](./getting-started/new-project.md)
   - [Main page](./getting-started/main-page.md)
-  - [Articles]()
+  - [Articles](./getting-started/articles.md)
   - [Deployment]()
 
 # Documentation
