@@ -1,3 +1,1 @@
-# Documentation
-
-Please see https://archict.github.io/documentation/
+./src/introduction.md
