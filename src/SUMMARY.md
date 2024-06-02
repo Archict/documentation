@@ -19,9 +19,12 @@
 
 # Existing Bricks
 
-- [Core](./bricks/core.md)
-- [Router](./bricks/router.md)
-- [Firewall]()
+- [Official Bricks](./bricks/official.md)
+  - [Core](./bricks/core.md)
+  - [Brick](./bricks/brick.md)
+  - [Router](./bricks/router.md)
+  - [Firewall](./bricks/firewall.md)
+- [Community Bricks](./bricks/community.md)
 
 ---
 

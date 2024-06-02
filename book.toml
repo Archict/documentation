@@ -16,3 +16,5 @@ git-repository-url = "https://github.com/Archict/documentation"
 edit-url-template  = "https://github.com/Archict/documentation/edit/master/{path}"
 
 [preprocessor.alerts]
+
+[preprocessor.webinclude]
