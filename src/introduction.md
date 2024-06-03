@@ -4,7 +4,7 @@
 
 Let's create together a small website in this tutorial.
 
-## [Documentation](./documentation/routing.md)
+## [Documentation](./documentation/brick.md)
 
 Wants to go further? Read detailed documentation of each available features.
 
