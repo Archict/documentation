@@ -11,11 +11,9 @@
 
 # Documentation
 
-- [Routing](./documentation/routing.md)
-  - [Route]()
-  - [Middleware]()
-- [Services](./documentation/services.md)
 - [Brick](./documentation/brick.md)
+- [Services](./documentation/services.md)
+- [Events](./documentation/events.md)
 
 # Existing Bricks
 
